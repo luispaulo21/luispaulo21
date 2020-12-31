@@ -2,7 +2,8 @@
 
 Meu nome é Luis Paulo Cavalcante, sou estudante de desenvolvimento front-end </>
 
-🧠 Possuo conhecimentos em:* HTML
+🧠 Possuo conhecimentos em:
+* HTML
 * CSS
 * JavaScript
 * Git & GitHub
