@@ -6,6 +6,7 @@ Meu nome é Luis Paulo Cavalcante, sou estudante de desenvolvimento front-end </
 * HTML
 * CSS
 * JavaScript
+* WordPress
 * Git & GitHub
 * UI Design (Intermediário)
 
